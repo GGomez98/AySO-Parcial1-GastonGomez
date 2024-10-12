@@ -18,3 +18,16 @@ sudo mount /dev/sdc1 /mnt/disco/sdc1
 sudo mount /dev/sdc2 /mnt/disco/sdc2
 sudo mount /dev/sdc3 /mnt/disco/sdc3
 sudo mount /dev/sdc5 /mnt/disco/sdc5
+Filesystem      Size  Used Avail Use% Mounted on
+udev            480M     0  480M   0% /dev
+tmpfs            99M  632K   98M   1% /run
+/dev/sda1        39G  1.6G   38G   5% /
+tmpfs           493M     0  493M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           493M     0  493M   0% /sys/fs/cgroup
+vagrant         1.9T  226G  1.6T  13% /vagrant
+tmpfs            99M     0   99M   0% /run/user/1000
+/dev/sdc1       2.4G   92K  2.3G   1% /mnt/disco/sdc1
+/dev/sdc2       2.4G   92K  2.3G   1% /mnt/disco/sdc2
+/dev/sdc3       2.4G   92K  2.3G   1% /mnt/disco/sdc3
+/dev/sdc5       2.5G   92K  2.4G   1% /mnt/disco/sdc5
