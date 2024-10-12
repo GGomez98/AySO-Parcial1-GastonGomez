@@ -1,5 +1,5 @@
 # AySO-Parcial1-GastonGomez
-Nombre: Gastón
-Apellido: Gómez
-Legajo: 112538
+Nombre: Gastón<br>
+Apellido: Gómez<br>
+Legajo: 112538<br>
 División: 312
