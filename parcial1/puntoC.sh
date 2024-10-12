@@ -1,4 +1,3 @@
-touch parcial1/Examenes_UTN/alumno_1/validar.txt parcial1/Examenes_UTN/alumno_2/validar.txt parcial1/Examenes_UTN/alumno_3/validar.txt parcial1/Examenes_UTN/profesores/validar.txt
 sudo groupadd grupoprogramadores
 sudo groupadd grupotesters
 sudo groupadd grupodisenadores
@@ -20,3 +19,4 @@ drwxr-x--- 5 programadores grupoprogramadores 4096 Oct 12 17:02 alumno_1
 drwxrw---- 5 tester        grupotester        4096 Oct 12 17:02 alumno_2
 drwx------ 5 analistas     grupoanalistas     4096 Oct 12 17:02 alumno_3
 drwxrwxr-x 2 disenadores   grupodisenadores   4096 Oct 12 17:02 profesores
+touch parcial1/Examenes_UTN/{alumno_1,alumno_2,alumno_3,profesores}/validar.txt
